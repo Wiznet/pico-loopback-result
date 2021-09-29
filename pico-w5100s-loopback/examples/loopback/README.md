@@ -86,5 +86,6 @@ Link
 
 [link-tera_term]: https://osdn.net/projects/ttssh2/releases/
 [link-hercules]: https://www.hw-group.com/software/hercules-setup-utility
-[link-raspberry_pi_pico_usb_mass_storage]: https://github.com/Wiznet-OpenHardware/RP2040-HAT-C/blob/main/static/images/raspberry_pi_pico_usb_mass_storage.png
-[link-loopback_test_result]: https://github.com/Wiznet-OpenHardware/RP2040-HAT-C/blob/main/static/images/loopback_test_result.png
+[link-raspberry_pi_pico_usb_mass_storage]: https://github.com/Wiznet/pico-loopback-result/blob/main/pico-w5100s-loopback/static/images/raspberry_pi_pico_usb_mass_storage.png
+[link-loopback_test_result]: https://github.com/Wiznet/pico-loopback-result/blob/main/pico-w5100s-loopback/static/images/loopback_test_result.png
+
